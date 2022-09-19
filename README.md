@@ -4,7 +4,7 @@ In this project I create a bot named Kevin that will talk to the user about how 
 # Steps
 * I created a function had had all the bots reponses
 * Then I collected the users input
-* And gave a reponse back
+* Then I checked the user input and gave a reponse back based on the input
 * Finally made sure that the reponse was not ('q')  since it quits the program
   
 
